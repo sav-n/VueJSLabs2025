@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "products": "Catalog",
+    "cart": "Order",
+    "profile": "Account"
+  },
+  "lang": { "ua": "Ukrainian", "en": "English" },
+
+  "products": {
+    "title": "Available Items",
+    "add": "Add to bag",
+    "price": "Cost"
+  },
+  "cart": {
+    "title": "My Order",
+    "empty": "No items in your bag",
+    "qty": "Amount",
+    "subtotal": "Total",
+    "clear": "Remove all",
+    "remove": "Delete"
+  },
+  "profile": {
+    "title": "Personal Area",
+    "name": "Full name",
+    "email": "Email address",
+    "dateOfBirth": "Birth date",
+    "address": "Shipping address",
+    "phones": "Contact phones",
+    "addPhone": "Add number",
+    "removePhone": "Delete",
+    "submit": "Update",
+    "success": "Data saved successfully!"
+  },
+
+  "validation": {
+    "required": "This field is mandatory",
+    "email": "Invalid email format",
+    "minChars": "Minimum {min} characters required",
+    "date": "Invalid date format",
+    "phone": "Invalid phone format"
+  }
+}
